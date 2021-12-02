@@ -1,1 +1,1 @@
-Nathan Pardoen grauated from Estancia High School in 2020 and is currently earning his B.S. in Mechanical Engineering at Colorado State University.
+Nathan Pardoen grauated from Estancia High School in 2020 and is currently earning his B.S. in Mechanical Engineering at Colorado State University. In high school he was a student athleite, was rookie of the year, MVP, and captain of his Track & Field team for his junior and senior years. He has experice with solidwork, C++, VEX Robotics and, MATLAB.
